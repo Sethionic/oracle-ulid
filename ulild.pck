@@ -1,4 +1,4 @@
-CREATE OR REPLACE PACKAGE LUTOOLS.Ulid IS
+CREATE OR REPLACE PACKAGE Ulid IS
 
     -- Author  : 
     -- Created : 8/20/2020 6:18:38 PM
